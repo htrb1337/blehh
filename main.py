@@ -3,9 +3,9 @@ import json
 import requests
 import websockets
 
-TOKEN = "Add your token here"
-GUILD_ID = "ADD_YOUR_SERVER_ID_HERE"
-CHANNEL_ID = "ADD_YOUR_CHANNEL_ID_HERE"
+TOKEN = "MTQ4NTIxNDI1NDUzNjg1NTY0Mw.Gnt6Eo.uM79406A0mGjq9yiCinN0ebdBo8JjGe856Z-fA"
+GUILD_ID = "934111484345196614"
+CHANNEL_ID = "1278400739047379065"
 
 STATUS = "online" # online / dnd / idle
 SELF_MUTE = True
